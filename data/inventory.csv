@@ -1,0 +1,108 @@
+Order_ID,Customer_Name,Product,Category,Region,Quantity,Unit_Price,Discount,Total_Sales,Order_Date
+ORD-1077,Evan Wright,Desk,Furniture,North,3,1157.84,0.0,3473.52,2025-10-24
+ORD-1011,George Clark,Office Chair,Furniture,South,10,1052.26,0.1,9470.34,2025-04-19
+ORD-1005,Bob Jones,Office Chair,Furniture,East,6,726.45,0.0,4358.7,2025-08-24
+ORD-1100,Evan Wright,Office Chair,Furniture,North,1,150.0,0.0,150.0,2025-09-01
+ORD-1071,George Clark,Sofa,Furniture,South,8,1103.85,0.2,7064.64,2025-10-01
+ORD-1067,Charlie Brown,Smartwatch,Electronics,South,4,81.75,0.15,277.95,2025-06-19
+ORD-1031,Diana Prince,Office Chair,Furniture,South,7,7.58,0.15,45.1,2025-05-16
+ORD-1046,Diana Prince,Pens (12-pack),Office Supplies,North,6,937.24,0.15,4779.92,2025-11-14
+ORD-1095,Alice Smith,Smartphone,Electronics,East,2,1192.73,0.0,2385.46,2025-10-13
+ORD-1012,Hannah Abbott,Sofa,Furniture,South,5,171.86,0.2,687.44,2025-10-03
+ORD-1079,Evan Wright,Binder,Office Supplies,North,6,641.63,0.1,3464.8,2025-02-05
+ORD-1048,Diana Prince,Desk,Furniture,North,7,1047.24,0.15,6231.08,2025-04-24
+ORD-1001,Bob Jones,Wireless Headphones,Electronics,South,4,171.75,0.0,687.0,2025-12-13
+ORD-1080,Fiona Gallagher,Smartwatch,Electronics,West,2,523.06,0.1,941.51,2025-11-22
+ORD-1019,Fiona Gallagher,Office Chair,Furniture,North,6,1055.07,0.1,5697.38,2025-05-03
+ORD-1104,Alice Smith,Bookshelf,Furniture,East,1,-120.0,0.0,-120.0,2025-12-01
+ORD-1056,Diana Prince,Sofa,Furniture,South,10,685.08,0.15,5823.18,2025-10-08
+ORD-1078,Alice Smith,Sofa,Furniture,West,4,95.82,0.05,364.12,2025-02-22
+ORD-1066,Evan Wright,Wireless Headphones,Electronics,East,6,1072.17,0.0,6433.02,2025-03-12
+ORD-1043,Fiona Gallagher,Wireless Headphones,Electronics,South,8,664.26,0.15,4516.97,2025-10-15
+ORD-1013,Evan Wright,Printer Paper,Office Supplies,West,6,267.09,0.05,1522.41,2025-09-18
+ORD-1037,Evan Wright,Bookshelf,Furniture,North,1,552.65,0.2,442.12,2025-02-21
+ORD-1068,Hannah Abbott,Office Chair,Furniture,South,7,470.42,0.2,2634.35,2025-12-23
+ORD-1027,Bob Jones,Printer Paper,Office Supplies,East,7,496.27,0.0,3473.89,2025-12-11
+ORD-1023,Hannah Abbott,Smartphone,Electronics,South,2,409.01,0.2,654.42,2025-10-11
+ORD-1032,Hannah Abbott,Sofa,Furniture,West,3,231.93,0.05,661.0,2025-01-30
+ORD-1057,Alice Smith,Bookshelf,Furniture,South,7,943.98,0.2,5286.29,2025-12-02
+ORD-1097,Bob Jones,Desk,Furniture,South,2,,0.1,400.0,2025-06-14
+ORD-1016,Bob Jones,Notebook,Office Supplies,East,2,355.73,0.05,675.89,2025-08-21
+ORD-1045,Charlie Brown,Desk,Furniture,North,5,440.76,0.0,2203.8,2025-07-03
+ORD-1090,Diana Prince,Printer Paper,Office Supplies,East,10,1172.05,0.2,9376.4,2025-11-02
+ORD-1089,Bob Jones,Pens (12-pack),Office Supplies,East,2,892.74,0.05,1696.21,2025-04-09
+ORD-1010,George Clark,Desk,Furniture,East,1,278.71,0.0,278.71,2025-06-11
+ORD-1034,Charlie Brown,Laptop,Electronics,South,2,716.07,0.05,1360.53,2025-07-26
+ORD-1069,Alice Smith,Printer Paper,Office Supplies,West,1,1131.58,0.1,1018.42,2025-07-19
+ORD-1101,Fiona Gallagher,Pens (12-pack),Office Supplies,East,3,10.0,0.1,27.0,2025-09-10
+ORD-1029,Hannah Abbott,Smartwatch,Electronics,South,5,557.84,0.0,2789.2,2025-08-15
+ORD-1041,Charlie Brown,Bookshelf,Furniture,South,6,248.3,0.1,1340.82,2025-09-16
+ORD-1006,Bob Jones,Office Chair,Furniture,East,10,1063.11,0.1,9567.99,2025-10-23
+ORD-1054,Diana Prince,Sofa,Furniture,North,6,749.67,0.0,4498.02,2026-06-03
+ORD-1082,Hannah Abbott,Sofa,Furniture,East,6,1022.8,0.0,6136.8,2025-05-23
+ORD-1040,Alice Smith,Notebook,Office Supplies,North,3,321.04,0.0,963.12,2025-10-11
+ORD-1036,Fiona Gallagher,Desk,Furniture,East,4,322.41,0.05,1225.16,2025-12-10
+ORD-1017,Alice Smith,Notebook,Office Supplies,South,9,1095.59,0.1,8874.28,2025-11-24
+ORD-1081,Hannah Abbott,Pens (12-pack),Office Supplies,West,3,881.89,0.1,2381.1,2025-11-12
+ORD-1035,Bob Jones,Pens (12-pack),Office Supplies,North,10,102.97,0.2,823.76,2025-10-17
+ORD-1008,Bob Jones,Bookshelf,Furniture,West,6,199.37,0.1,1076.6,2025-04-18
+ORD-1044,Alice Smith,Laptop,Electronics,South,9,48.05,0.1,389.2,2025-10-26
+ORD-1065,Evan Wright,Wireless Headphones,Electronics,West,4,333.14,0.0,1332.56,2026-01-01
+ORD-1105,Bob Jones,Wireless Headphones,Electronics,North,2,-85.5,0.1,-153.9,2025-12-15
+ORD-1028,Bob Jones,Smartwatch,Electronics,East,2,302.14,0.05,574.07,2025-10-02
+ORD-1020,Alice Smith,Laptop,Electronics,North,8,980.15,0.2,6272.96,2025-03-06
+ORD-1099,Diana Prince,Smartwatch,Electronics,West,1,250.0,0.0,,2025-08-15
+ORD-1092,Charlie Brown,Office Chair,Furniture,North,9,354.1,0.05,3027.55,2025-11-23
+ORD-1026,Charlie Brown,Printer Paper,Office Supplies,South,8,969.96,0.05,7371.7,2025-02-18
+ORD-1063,Alice Smith,Pens (12-pack),Office Supplies,North,8,164.34,0.15,1117.51,2025-12-08
+ORD-1050,Fiona Gallagher,Office Chair,Furniture,East,6,771.57,0.15,3935.01,2025-12-14
+ORD-1014,Hannah Abbott,Laptop,Electronics,North,3,754.8,0.15,1924.74,2025-11-02
+ORD-1025,Bob Jones,Wireless Headphones,Electronics,North,9,289.42,0.15,2214.06,2025-04-20
+ORD-1004,Charlie Brown,Printer Paper,Office Supplies,East,5,190.8,0.1,858.6,2025-02-22
+ORD-1018,Diana Prince,Wireless Headphones,Electronics,South,9,1144.43,0.2,8239.9,2025-01-01
+ORD-1039,Fiona Gallagher,Desk,Furniture,West,9,845.73,0.2,6089.26,2025-12-01
+ORD-1009,Evan Wright,Binder,Office Supplies,South,9,876.31,0.05,7492.45,2025-08-25
+ORD-1084,Hannah Abbott,Wireless Headphones,Electronics,East,6,339.19,0.2,1628.11,2025-12-26
+ORD-1007,Diana Prince,Binder,Office Supplies,North,4,928.82,0.0,3715.28,2025-04-30
+ORD-1070,George Clark,Pens (12-pack),Office Supplies,West,4,331.16,0.15,1125.94,2025-01-15
+ORD-1094,Alice Smith,Sofa,Furniture,North,2,483.85,0.0,967.7,2025-10-23
+ORD-1086,Diana Prince,Printer Paper,Office Supplies,West,8,952.55,0.0,7620.4,2025-05-31
+ORD-1055,Evan Wright,Printer Paper,Office Supplies,East,7,838.16,0.2,4693.7,2025-03-07
+ORD-1051,Fiona Gallagher,Laptop,Electronics,East,3,698.8,0.1,1886.76,2025-01-20
+ORD-1073,Alice Smith,Sofa,Furniture,East,4,548.37,0.1,1974.13,2025-07-14
+ORD-1047,Charlie Brown,Smartphone,Electronics,South,7,34.62,0.1,218.11,2025-07-30
+ORD-1074,Evan Wright,Bookshelf,Furniture,North,8,28.16,0.2,180.22,2025-01-27
+ORD-1062,Alice Smith,Smartwatch,Electronics,South,3,965.91,0.2,2318.18,2025-08-26
+ORD-1102,George Clark,Smartphone,Electronics,South,-2,600.0,0.0,-1200.0,2025-10-05
+ORD-1085,Evan Wright,Binder,Office Supplies,South,2,293.42,0.15,498.81,2025-09-08
+ORD-1042,Hannah Abbott,Office Chair,Furniture,North,7,996.07,0.0,6972.49,2025-01-02
+ORD-1059,Bob Jones,Bookshelf,Furniture,North,4,808.99,0.05,3074.16,2025-04-12
+ORD-1049,Diana Prince,Bookshelf,Furniture,East,4,271.39,0.05,1031.28,2025-07-24
+ORD-1103,Hannah Abbott,Binder,Office Supplies,West,-5,3.5,0.0,-17.5,2025-11-12
+ORD-1058,Fiona Gallagher,Sofa,Furniture,West,4,615.85,0.05,2340.23,2025-12-04
+ORD-1076,Charlie Brown,Smartphone,Electronics,West,2,678.94,0.05,1289.99,2025-08-27
+ORD-1033,Alice Smith,Notebook,Office Supplies,North,1,703.09,0.2,562.47,2025-09-29
+ORD-1100,Evan Wright,Office Chair,Furniture,North,1,150.0,0.0,150.0,2025-09-01
+ORD-1060,Charlie Brown,Laptop,Electronics,South,8,735.47,0.0,5883.76,2025-08-22
+ORD-1064,Fiona Gallagher,Sofa,Furniture,West,3,893.67,0.15,2278.86,2025-08-19
+ORD-1091,Evan Wright,Smartphone,Electronics,East,4,436.25,0.1,1570.5,2025-01-08
+ORD-1038,Bob Jones,Pens (12-pack),Office Supplies,East,3,1120.24,0.0,3360.72,2025-05-06
+ORD-1030,Bob Jones,Laptop,Electronics,North,4,203.74,0.15,692.72,2025-09-04
+ORD-1096,Alice Smith,Laptop,Electronics,North,1,,0.0,0.0,2025-05-12
+ORD-1002,Bob Jones,Printer Paper,Office Supplies,North,1,116.97,0.05,111.12,2025-09-16
+ORD-1053,George Clark,Pens (12-pack),Office Supplies,East,1,852.0,0.0,852.0,2025-09-24
+ORD-1022,Diana Prince,Pens (12-pack),Office Supplies,East,7,1194.2,0.1,7523.46,2025-08-13
+ORD-1003,Alice Smith,Pens (12-pack),Office Supplies,West,4,541.8,0.1,1950.48,2025-01-04
+ORD-1024,Diana Prince,Pens (12-pack),Office Supplies,North,2,850.87,0.0,1701.74,2025-04-28
+ORD-1088,Fiona Gallagher,Bookshelf,Furniture,East,8,328.75,0.1,2367.0,2025-04-29
+ORD-1098,Charlie Brown,Notebook,Office Supplies,East,5,4.99,0.0,,2025-07-20
+ORD-1075,Fiona Gallagher,Laptop,Electronics,North,1,1139.79,0.05,1082.8,2025-01-11
+ORD-1087,Diana Prince,Desk,Furniture,East,10,445.98,0.2,3567.84,2025-09-29
+ORD-1083,Hannah Abbott,Smartwatch,Electronics,West,6,39.3,0.1,212.22,2025-04-04
+ORD-1021,Charlie Brown,Printer Paper,Office Supplies,South,5,635.57,0.2,2542.28,2025-08-05
+ORD-1061,George Clark,Pens (12-pack),Office Supplies,West,8,482.59,0.05,3667.68,2025-12-02
+ORD-1072,Alice Smith,Office Chair,Furniture,North,7,167.16,0.15,994.6,2025-04-04
+ORD-1015,Bob Jones,Sofa,Furniture,West,9,305.44,0.2,2199.17,2025-01-06
+ORD-1093,Hannah Abbott,Laptop,Electronics,East,8,577.06,0.1,4154.83,2025-04-05
+ORD-1052,Bob Jones,Printer Paper,Office Supplies,East,6,526.49,0.2,2527.15,2025-03-01
+ORD-1101,Fiona Gallagher,Pens (12-pack),Office Supplies,East,3,10.0,0.1,27.0,2025-09-10

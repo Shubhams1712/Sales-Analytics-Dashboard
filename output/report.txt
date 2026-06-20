@@ -1,0 +1,53 @@
+====== Sales Analytics Report ======
+
+Total Orders: 76
+
+Total Revenue: 209904.07
+
+Average Order Value: 2761.9
+
+Highest Sale: 9558.42201
+
+Lowest Sale: 26.973
+
+Highest Spending Customer:
+Customer_Name
+Diana Prince    46542.4337
+
+Top 5 Product: Product
+Office Chair      35333.339750
+Printer Paper     29977.121305
+Pens (12-pack)    25066.313440
+Sofa              23357.057635
+Laptop            17740.415435
+
+Revenue by Category:
+Category
+Furniture          90953.899585
+Office Supplies    76593.838340
+Electronics        42356.336375
+
+Revenue by Region:
+Region
+South    77402.536895
+East     60779.069510
+North    42637.665000
+West     29084.802895
+
+
+
+Monthly Sales:
+Order_Date
+2025-01    18867.562870
+2025-02    12492.264450
+2025-03    13466.822380
+2025-04    31457.274215
+2025-05     5736.714970
+2025-06      677.133075
+2025-07     5598.063435
+2025-08    24095.718165
+2025-09     8310.957500
+2025-10    30057.455030
+2025-11    31262.979545
+2025-12    27881.128665
+Freq: M
