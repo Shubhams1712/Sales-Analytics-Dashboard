@@ -8,6 +8,20 @@ This project demonstrates practical data analysis skills using Python and is des
 
 ---
 
+## 📉 Charts
+
+<img width="320" height="240" alt="top_customers" src="https://github.com/user-attachments/assets/fd307d98-b013-4fca-9ec9-934cdc4017e9" />
+<img width="320" height="240" alt="revenue_by_region" src="https://github.com/user-attachments/assets/69b7c420-d27f-4cbc-8690-7267f5bb59c9" />
+<img width="320" height="240" alt="revenue_by_category" src="https://github.com/user-attachments/assets/987324e3-99db-4e9b-b23b-931b2414f53f" />
+<img width="320" height="240" alt="quantity_vs_sales" src="https://github.com/user-attachments/assets/f99412a1-a68d-4f80-bd32-5c4cbcf67cbf" />
+<img width="320" height="240" alt="monthly_revenue" src="https://github.com/user-attachments/assets/a56f7644-7994-4eac-a534-f6e948985996" />
+<img width="320" height="240" alt="discount_distribution" src="https://github.com/user-attachments/assets/c473ff70-5c25-4283-92f7-ef5d2f8940a5" />
+<img width="320" height="240" alt="top_products" src="https://github.com/user-attachments/assets/49a3114a-ce38-46ac-95b5-413e18143e88" />
+
+
+
+---
+
 ## ✨ Features
 
 * Load sales data from CSV files
