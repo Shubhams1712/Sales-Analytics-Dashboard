@@ -40,7 +40,7 @@ def visualize_data(df, analysis):
 
     monthly_revenue = analysis["monthly_sales"]
     plt.figure(figsize=(8,5))
-    plt.plot(monthly_revenue.index.strftime("%b"), monthly_revenue.values, marker="o", color="darkorange", linewidth=2)
+    plt.plot(monthly_revenue.index.strftime("%b"), monthly_revenue.values, marker="o", linewidth=2)
     plt.title("Monthly Revenue")
     plt.xlabel("Month")
     plt.ylabel("Revenue")
@@ -49,7 +49,7 @@ def visualize_data(df, analysis):
     plt.close()
 
     top_customer = analysis["top_customers"]
-    plt.barh(top_customer.index, top_customer.values, color = "mediumorchid")
+    plt.barh(top_customer.index, top_customer.values, color = "steelblue")
     plt.title("Top Customers")
     plt.xlabel("Revenue")
     plt.ylabel("Customer")
@@ -68,7 +68,7 @@ def visualize_data(df, analysis):
 
     plt.figure(figsize=(8,5))
     discount = df["Discount"].value_counts().sort_index()
-    plt.bar(discount.index.astype(str), discount.values, color = "tomato")
+    plt.bar(discount.index.astype(str), discount.values, color = "steelblue")
     plt.title("Discount Distribution")
     plt.xlabel("Discount (%)")
     plt.ylabel("Frequency")
@@ -77,7 +77,7 @@ def visualize_data(df, analysis):
     plt.close()
 
     plt.figure(figsize=(8,5))
-    plt.scatter(df["Quantity"], df["Total_Sales"], color="crimson", alpha=0.7)
+    plt.scatter(df["Quantity"], df["Total_Sales"], color="steelblue", alpha= 0.8)
     plt.title("Quantity vs Total Sales")
     plt.xlabel("Quantity")
     plt.ylabel("Total Sales")
